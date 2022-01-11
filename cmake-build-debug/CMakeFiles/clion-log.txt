@@ -1,10 +1,10 @@
-"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" C:\Users\mosta\CLionProjects\PageReplacementAlgorithms
--- The C compiler identification is GNU 6.3.0
+/home/mostafa/Downloads/clion-2021.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/mostafa/CLionProjects/Page-Replacement-Algorithms
+-- The C compiler identification is GNU 9.3.0
 -- Detecting C compiler ABI info
 -- Detecting C compiler ABI info - done
--- Check for working C compiler: C:/MinGW/bin/gcc.exe - skipped
+-- Check for working C compiler: /usr/bin/cc - skipped
 -- Detecting C compile features
 -- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/mosta/CLionProjects/PageReplacementAlgorithms/cmake-build-debug
+-- Build files have been written to: /home/mostafa/CLionProjects/Page-Replacement-Algorithms/cmake-build-debug

@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/mosta/CLionProjects/PageReplacementAlgorithms/main.c
+/home/mostafa/CLionProjects/Page-Replacement-Algorithms/main.c
 stdio.h
 -
 stdlib.h
 -
 string.h
-C:/Users/mosta/CLionProjects/PageReplacementAlgorithms/string.h
+/home/mostafa/CLionProjects/Page-Replacement-Algorithms/string.h
 
