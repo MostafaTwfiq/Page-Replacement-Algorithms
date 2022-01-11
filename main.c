@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include "string.h"
 
+//gcc <ID>.c -o lab4
+//cat inputfile | ./lab4 | diff outputfile -
 
 int *addPage(int *pageRef, int *len, int *size, int element) {
     if (*len == *size) {
