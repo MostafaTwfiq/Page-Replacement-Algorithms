@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\PageReplacementAlgorithms.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\PageReplacementAlgorithms.dir/objects.a @CMakeFiles\PageReplacementAlgorithms.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\PageReplacementAlgorithms.dir/objects.a -Wl,--no-whole-archive -o PageReplacementAlgorithms.exe -Wl,--out-implib,libPageReplacementAlgorithms.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PageReplacementAlgorithms.dir\linklibs.rsp

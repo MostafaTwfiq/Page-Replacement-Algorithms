@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mosta/CLionProjects/PageReplacementAlgorithms/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+C:/Users/mosta/CLionProjects/PageReplacementAlgorithms/string.h
+

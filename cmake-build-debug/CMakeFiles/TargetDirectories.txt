@@ -1,0 +1,3 @@
+C:/Users/mosta/CLionProjects/PageReplacementAlgorithms/cmake-build-debug/CMakeFiles/PageReplacementAlgorithms.dir
+C:/Users/mosta/CLionProjects/PageReplacementAlgorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mosta/CLionProjects/PageReplacementAlgorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
