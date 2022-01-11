@@ -268,7 +268,7 @@ void clockAlgo(int buff[], int buffSize, int *pageRef, int pageRefLen) {
             } else {
                 int index = -1;
                 for (int j = 0; j < buffSize; j++) {
-                    if (buff[j] == pageRef[j]) {
+                    if (buff[j] == pageRef[i]) {
                         index = j;
                         break;
                     }
